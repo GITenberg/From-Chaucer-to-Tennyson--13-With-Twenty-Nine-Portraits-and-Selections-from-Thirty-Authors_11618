@@ -1,0 +1,28 @@
+_repo: From-Chaucer-to-Tennyson--13-With-Twenty-Nine-Portraits-and-Selections-from-Thirty-Authors_11618
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beers, Henry A. (Henry Augustin)
+    alias: Beers, Henry Augustin
+    birthdate: 1847
+    deathdate: 1926
+    gutenberg_agent_id: '4050'
+    url: http://www.gutenberg.org/2009/agents/4050
+description: Cover; Front matter; Title page; Copyright page; Body matter; Preface;
+  Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII;
+  Chapter VIII; Appendix;
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+- GITenberg
+title: "From Chaucer to Tennyson\r\nWith Twenty-Nine Portraits and Selections from\
+  \ Thirty Authors"
+url: http://www.gutenberg.org/ebooks/11618
