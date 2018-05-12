@@ -1,5 +1,8 @@
 _repo: From-Chaucer-to-Tennyson--13-With-Twenty-Nine-Portraits-and-Selections-from-Thirty-Authors_11618
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beers, Henry A. (Henry Augustin)
@@ -11,6 +14,8 @@ creator:
 description: Cover; Front matter; Title page; Copyright page; Body matter; Preface;
   Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII;
   Chapter VIII; Appendix;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11618#From-Chaucer-to-Tennyson--13-With-Twenty-Nine-Portraits-and-Selections-from-Thirty-Authors
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
